@@ -4,4 +4,5 @@ Flutter Dart dilinde Sayac uygulaması kodları ile birlikte lib klasörünü in
 
 https://www.youtube.com/watch?v=jwPfEdRcoEE&t=2s
 
-![SAYAÇ](https://user-images.githubusercontent.com/121056717/231106555-52e9db85-23a4-479d-97a9-66344aa7a806.PNG)
+
+![SAYAÇ](https://user-images.githubusercontent.com/121056717/231106643-afc10e93-0e88-41a2-9a22-6a8168949831.PNG)
